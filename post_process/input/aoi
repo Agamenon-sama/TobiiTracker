@@ -1,0 +1,2 @@
+type=Rectangle name=rect x=300 y=130 w=250 h=75
+type=Circle name=circle x=500 y=320 r=120

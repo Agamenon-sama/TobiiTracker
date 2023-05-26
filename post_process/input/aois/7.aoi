@@ -1,0 +1,5 @@
+type=Rectangle name=Leaderboard x=192 y=117 w=195 h=324
+type=Rectangle name=Minimap x=1026 y=133 w=63 h=126
+type=Rectangle name=Rearview_Mirror1 x=890 y=260 w=301 h=85
+type=Rectangle name=Rearview_Mirror2 x=170 y=441 w=142 h=122
+type=Circle name=Steering_Wheel x=680 y=644 r=212

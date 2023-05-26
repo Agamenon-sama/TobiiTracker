@@ -1,0 +1,8 @@
+**/.vs/
+**/.vscode/
+**/build/
+*.swp
+
+/post_process/out
+/post_process/output/
+

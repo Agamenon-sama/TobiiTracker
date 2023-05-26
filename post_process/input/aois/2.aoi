@@ -1,0 +1,4 @@
+type=Rectangle name=Logo x=12 y=7 w=149 h=49
+type=Rectangle name=Featured x=75 y=308 w=1217 h=235
+type=Rectangle name=Previous_Choices x=75 y=632 w=740 h=136
+type=Rectangle name=User_Info x=260 y=0 w=1105 h=61

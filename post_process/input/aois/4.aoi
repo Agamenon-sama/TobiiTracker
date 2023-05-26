@@ -1,0 +1,6 @@
+type=Rectangle name=Angry x=420 y=156 w=174 h=228
+type=Rectangle name=Happy x=594 y=156 w=174 h=228
+type=Rectangle name=Sad x=771 y=156 w=174 h=228
+type=Rectangle name=Annoyed x=420 y=384 w=174 h=228
+type=Rectangle name=Worried x=594 y=384 w=174 h=228
+type=Rectangle name=Surprised x=771 y=384 w=174 h=228

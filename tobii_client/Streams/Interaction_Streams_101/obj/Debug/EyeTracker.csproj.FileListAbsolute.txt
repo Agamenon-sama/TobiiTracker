@@ -1,0 +1,12 @@
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\obj\Debug\EyeTracker.csproj.AssemblyReference.cache
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\obj\Debug\EyeTracker.ControlPanel.resources
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\obj\Debug\EyeTracker.csproj.GenerateResource.cache
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\obj\Debug\EyeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\bin\Debug\EyeTracker.exe.config
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\bin\Debug\EyeTracker.exe
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\bin\Debug\EyeTracker.pdb
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\obj\Debug\EyeTracker.exe
+C:\Users\Winxspace\source\repos\CSharp\Thesis\TobiiTest\Streams\Interaction_Streams_101\obj\Debug\EyeTracker.pdb

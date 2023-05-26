@@ -1,0 +1,18 @@
+Newton’s first law is formulated as follows: every body continues in its state of rest or of uniform motion in a straight line unless it is compelled by external forces to change that state. A reference frame in which Newton’s first law is obeyed is called an inertial one. The law itself is often called the law of inertia. A reference frame in which Newton’s first law is not obeyed is called a non-inertial reference frame. There is an infinite multitude of inertial reference frames. Any reference frame moving uniformly in a straight line relative to an inertial frame will be also an inertial one.
+
+===
+
+The conservation of energy is based on the uniformity of time, i. e. the equivalence of all moments of time. The equivalence should be understood in the sense that the substitution of the moment of time t2 for the moment t1 without a change in the values of the coordinates and velocities of the particles does not change the mechanical properties of a system. This signifies that after such a substitution, the coordinates and velocities of the particles have the same values at any moment of time t'2 as they have had before the substitution at the moment t'1.
+
+===
+
+A completely elastic collision is characterised by the fact that no potential energy of deformation is produced. The kinetic energy of the bodies completely or partly transforms into internal energy. After colliding, the bodies either move with the same velocity or are at rest. In a completely inelastic collision, only the law of conservation of momentum is observed. The law of conservation of mechanical energy is violated because of the presence of non-conservative forces.
+
+===
+
+The force that a gas exerts on a surface is due to collisions that the gas molecules make with that surface. For instance, think of the air inside an automobile tire. Whenever an air molecule collides with the inner tire surface, the tire exerts an inward force to turn the air molecule around and return it to the bulk of the gas. By Newton’s third law, the gas molecule exerts an outward force on the tire surface. The net force per unit area on the inside of the tire due to all the collisions of the many air molecules is equal to the air pressure in the tire.
+
+===
+
+
+

@@ -1,0 +1,5 @@
+type=Rectangle name=Session x=966 y=0 w=389 h=34
+type=Rectangle name=Messages x=46 y=478 w=223 h=185
+type=Rectangle name=NavigationBar x=18 y=252 w=675 h=45
+type=Rectangle name=News x=281 y=483 w=1066 h=272
+type=Rectangle name=Logo x=94 y=77 w=221 h=64
