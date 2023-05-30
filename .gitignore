@@ -5,4 +5,6 @@
 
 /post_process/out
 /post_process/output/
+/post_process/__pycache__/
+/post_process/.ipynb_checkpoints/
 

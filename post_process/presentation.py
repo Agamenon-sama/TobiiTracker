@@ -27,16 +27,54 @@ def getAois(folder : Path):
                         pair = line.split(':')
                         if pair[0] == "AOI":
                             aoi[pair[0]] = pair[1][1:-1]
+                        elif pair[0] == "Average fixation duration":
+                            aoi[pair[0]] = float(pair[1][1:-3])
                         else:
-                            aoi[pair[0]] = pair[1][1:-3]
+                            aoi[pair[0]] = int(pair[1][1:-3])
             aois.append(areasInFile)
                     
     return aois
 
+def interestingAois(persons : list, filename : str) -> dict:
+    """
+        Calculates the average dwell time for the aois of a certain file.
+        filename is the name of the file without the .ppo extension.
+    """
+    dwellTimes = []
+
+    # create tuples of aoi names and their dwell times for all testers
+    for p in persons:
+        for file in p.areas:
+            if file["name"] == filename: # search for the desired file
+                for aoi in file["aois"]:
+                    dwellTimes.append((aoi["AOI"], aoi["Dwell time"]))
+
+    # accum is a dictionary that holds:
+    # keys: the names of the aois
+    # values: the dwell time (by the end, it will hold the average)
+    accum = {}
+
+    # set the keys from dwellTimes in the dict
+    # and set their values to 0 for accumulating
+    for elem in dwellTimes:
+        accum[elem[0]] = 0
+
+    # accumulating the values from dwellTimes
+    for elem in dwellTimes:
+        accum[elem[0]] += elem[1]
+
+    # calculate averages
+    for elem in accum:
+        accum[elem] /= len(persons)
+
+    return accum
 
 def parse():
-    """creates persons by iterating over the folder,
-    setting the names and calling getAois"""
+    """
+        creates list of persons by iterating over the output folder,
+        setting the names of the persons and the information of the eye tracking
+        test on every file
+    """
     persons = []
 
     rootFolder = Path("output/")
